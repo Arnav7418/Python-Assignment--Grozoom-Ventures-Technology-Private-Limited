@@ -1,0 +1,16 @@
+Processed data: 7141
+Script execution time: 41.94 seconds
+Script memory usage: 30.28 MB
+Alert: Script execution time exceeded the threshold of 60 seconds!
+Alert: Script memory usage exceeded the threshold of 500 MB!
+Processed data: 2603
+Script execution time: 52.26 seconds
+Script memory usage: 30.21 MB
+Alert: Script execution time exceeded the threshold of 60 seconds!
+Alert: Script memory usage exceeded the threshold of 500 MB!
+Processed data: 6530
+Script execution time: 7.59 seconds
+Script memory usage: 30.21 MB
+Processed data: 5057
+Script execution time: 10.43 seconds
+Script memory usage: 30.17 MB
