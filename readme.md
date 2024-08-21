@@ -19,3 +19,13 @@ Ensure you have the required Python packages installed:
 
 ```bash
 pip install prometheus_client psutil requests
+```
+
+
+
+![image](https://github.com/Arnav7418/Python-Assignment--Grozoom-Ventures-Technology-Private-Limited/blob/main/Script%20Log.png)
+
+
+
+![image](https://github.com/Arnav7418/Python-Assignment--Grozoom-Ventures-Technology-Private-Limited/blob/main/DataVisualisationGraph.png)
+
